@@ -1,0 +1,3 @@
+<launch>
+    <node name="pos_ctl" pkg="nav" type="mavros_posctl.py" />
+</launch>
