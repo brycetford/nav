@@ -132,3 +132,6 @@ dmypy.json
 *.csv
 *.bz2
 *.tar
+*.pyc
+
+depricated/
